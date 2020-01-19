@@ -26,7 +26,7 @@ int main()
 
 	f1(x, y);
 
-	std::cout << x << " " << y << "\n"; //Çıktısı 16 22 
+	std::cout << x << " " << y << "\n"; //Kod derlenip çalıştırıldığında ekran çıktısı "16 22" olur.
 }
 
 ```
