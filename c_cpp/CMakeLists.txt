@@ -5,5 +5,5 @@ project(Tasks)
 
 
 # add the executable
-add_executable(Tasks c_02.cpp)
+add_executable(Tasks c_03.c)
 
